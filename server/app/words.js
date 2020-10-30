@@ -11,7 +11,8 @@ const PACK_NAMES = [
 	"Naughty words (18+)",
 	"Animals",
 	"Adjectives",
-	"Verbs"
+	"Verbs",
+	"Halloween"
 ];
 
 function WordPacks() {
